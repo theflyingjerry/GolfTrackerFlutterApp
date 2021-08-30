@@ -1,0 +1,2 @@
+# GolfTrackerFlutterApp
+Mobile application developed using flutter and dart that uses the devices gps coordinates to collect the data on the distance of golfers swings. This data can then be recored with the club used for the swing and over the course of a round or two the golfer can develop meaningful averages to better determine the distances they can hit the ball with each club. This will help them improve their golf game. The application also automatically keeps score for the user and shows a satellite image to better see where the shot was.
